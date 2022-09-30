@@ -14,7 +14,7 @@ As a user looking for a simple to-do list with a good looking UI and a good UX, 
 
 ## Installation
 ### Clone Repository
-* git clone https://github.com/andrewyk99/taskmaster-pro
+* git clone https://github.com/andrewyk99/taskmaster-pro.git
 
 ### Start Application
 * Open index.html
