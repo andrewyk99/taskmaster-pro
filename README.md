@@ -1,7 +1,7 @@
 # Taskmaster Pro
 Taskmaster Pro is a front end to-do application, which the user can create tasks with a description as well as a due date. They then can drag and drop their tasks in one of four boxes: 'To Do', 'In Progress', 'In Review', and 'Done'. The user can also drag and drop tasks to delete one task or can delete all tasks with a single button if they wish to do so.
 
-## Live Wesbite
+## Live Website
 https://andrewyk99.github.io/taskmaster-pro/
 
 ## Features
